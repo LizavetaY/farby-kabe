@@ -1609,17 +1609,17 @@ body .content {
 }
 
 .main .bottom-banner-card:first-child {
-  background-image: url(../../images/main/bottom-banner/jpeg/bestsellers.jpg);
+  background-image: url(https://lizavetay.github.io/farby-kabe/images/main/bottom-banner/jpeg/bestsellers.jpg);
   background-position: 0;
 }
 
 .main .bottom-banner-card:nth-child(2) {
-  background-image: url(../../images/main/bottom-banner/jpeg/new_arrival.jpg);
+  background-image: url(https://lizavetay.github.io/farby-kabe/images/main/bottom-banner/jpeg/new_arrival.jpg);
   background-position: 0;
 }
 
 .main .bottom-banner-card:last-child {
-  background-image: url(../../images/main/bottom-banner/jpeg/recommend.jpg);
+  background-image: url(https://lizavetay.github.io/farby-kabe/images/main/bottom-banner/jpeg/recommend.jpg);
   background-position: center;
 }
 
@@ -2772,7 +2772,7 @@ body .content {
   display: flex;
   width: 30px;
   height: 30px;
-  background-image: url(../../images/footer/svg/upicon.svg);
+  background-image: url(https://lizavetay.github.io/farby-kabe/images/footer/svg/upicon.svg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
